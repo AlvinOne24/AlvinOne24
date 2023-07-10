@@ -1,5 +1,5 @@
 <h3 align="center">I'am a Software engineering from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlvinVinOne24" alt="ekovegeance" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlvinOne24" alt="ekovegeance" /> </p>
 <img src="https://wakatime.com/badge/user/b1d540cc-876d-44c2-a1db-ddb92a4686e9.svg" alt="ekovegeance"/>
 
 
@@ -28,9 +28,9 @@
 
 <code><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></code>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlvinVinOne24&show_icons=true&include_all_commits=true" alt="ekovegeance" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlvinOne24&show_icons=true&include_all_commits=true" alt="ekovegeance" /></p>
 
-<p><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AlvinVinOne24" />
+<p><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AlvinOne24" />
 </a></p>
 
 
